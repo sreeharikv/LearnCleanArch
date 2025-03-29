@@ -1,0 +1,15 @@
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\bin\Debug\net8.0\CleanApp.Application.deps.json
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\bin\Debug\net8.0\CleanApp.Application.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\bin\Debug\net8.0\CleanApp.Application.pdb
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\CleanApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\CleanApp.Application.AssemblyInfoInputs.cache
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\CleanApp.Application.AssemblyInfo.cs
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\CleanApp.Application.csproj.CoreCompileInputs.cache
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\CleanApp.Application.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\refint\CleanApp.Application.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\CleanApp.Application.pdb
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\ref\CleanApp.Application.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\bin\Debug\net8.0\CleanApp.Domain.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\bin\Debug\net8.0\CleanApp.Domain.pdb
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\CleanApp.Application.csproj.AssemblyReference.cache
+D:\LearnCore\LearnASPNetCleanArchitecture\Application\CleanApp.Application\obj\Debug\net8.0\CleanApp.A56D2746.Up2Date

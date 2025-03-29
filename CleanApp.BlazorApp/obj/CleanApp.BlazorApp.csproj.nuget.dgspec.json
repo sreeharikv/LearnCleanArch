@@ -1,0 +1,402 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LearnCore\\LearnASPNetCleanArchitecture\\CleanApp.BlazorApp\\CleanApp.BlazorApp.csproj": {}
+  },
+  "projects": {
+    "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Application\\CleanApp.Application\\CleanApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Application\\CleanApp.Application\\CleanApp.Application.csproj",
+        "projectName": "CleanApp.Application",
+        "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Application\\CleanApp.Application\\CleanApp.Application.csproj",
+        "packagesPath": "C:\\Users\\sreeh\\.nuget\\packages\\",
+        "outputPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Application\\CleanApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sreeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj": {
+                "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LearnCore\\LearnASPNetCleanArchitecture\\CleanApp.BlazorApp\\CleanApp.BlazorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\CleanApp.BlazorApp\\CleanApp.BlazorApp.csproj",
+        "projectName": "CleanApp.BlazorApp",
+        "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\CleanApp.BlazorApp\\CleanApp.BlazorApp.csproj",
+        "packagesPath": "C:\\Users\\sreeh\\.nuget\\packages\\",
+        "outputPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\CleanApp.BlazorApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sreeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Application\\CleanApp.Application\\CleanApp.Application.csproj": {
+                "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Application\\CleanApp.Application\\CleanApp.Application.csproj"
+              },
+              "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj": {
+                "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj"
+              },
+              "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Infrastructure\\CleanApp.Infrastructure\\CleanApp.Infrastructure.csproj": {
+                "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Infrastructure\\CleanApp.Infrastructure\\CleanApp.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj",
+        "projectName": "CleanApp.Domain",
+        "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\sreeh\\.nuget\\packages\\",
+        "outputPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sreeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Infrastructure\\CleanApp.Infrastructure\\CleanApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Infrastructure\\CleanApp.Infrastructure\\CleanApp.Infrastructure.csproj",
+        "projectName": "CleanApp.Infrastructure",
+        "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Infrastructure\\CleanApp.Infrastructure\\CleanApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sreeh\\.nuget\\packages\\",
+        "outputPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Infrastructure\\CleanApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sreeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Application\\CleanApp.Application\\CleanApp.Application.csproj": {
+                "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Application\\CleanApp.Application\\CleanApp.Application.csproj"
+              },
+              "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj": {
+                "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj"
+              },
+              "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Presentation\\CleanApp.Presentation\\CleanApp.Presentation.csproj": {
+                "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Presentation\\CleanApp.Presentation\\CleanApp.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Presentation\\CleanApp.Presentation\\CleanApp.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Presentation\\CleanApp.Presentation\\CleanApp.Presentation.csproj",
+        "projectName": "CleanApp.Presentation",
+        "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Presentation\\CleanApp.Presentation\\CleanApp.Presentation.csproj",
+        "packagesPath": "C:\\Users\\sreeh\\.nuget\\packages\\",
+        "outputPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Presentation\\CleanApp.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sreeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj": {
+                "projectPath": "D:\\LearnCore\\LearnASPNetCleanArchitecture\\Domain\\CleanApp.Domain\\CleanApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

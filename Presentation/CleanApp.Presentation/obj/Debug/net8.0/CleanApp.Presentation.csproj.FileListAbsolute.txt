@@ -1,0 +1,15 @@
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\bin\Debug\net8.0\CleanApp.Presentation.deps.json
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\bin\Debug\net8.0\CleanApp.Presentation.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\bin\Debug\net8.0\CleanApp.Presentation.pdb
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\CleanApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\CleanApp.Presentation.AssemblyInfoInputs.cache
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\CleanApp.Presentation.AssemblyInfo.cs
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\CleanApp.Presentation.csproj.CoreCompileInputs.cache
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\CleanApp.Presentation.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\refint\CleanApp.Presentation.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\CleanApp.Presentation.pdb
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\ref\CleanApp.Presentation.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\CleanApp.Presentation.csproj.AssemblyReference.cache
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\bin\Debug\net8.0\CleanApp.Domain.dll
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\bin\Debug\net8.0\CleanApp.Domain.pdb
+D:\LearnCore\LearnASPNetCleanArchitecture\Presentation\CleanApp.Presentation\obj\Debug\net8.0\CleanApp.128CDF34.Up2Date
